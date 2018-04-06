@@ -2,7 +2,7 @@ identidad x = x
 
 siempre10 x = 10
 
--- doble x = 2 * x
+-- doble x = 2 * x ....
 
 grande :: Int -> Bool
 grande x = x > 10000
